@@ -9,3 +9,4 @@
 | 5-printf.c | A C program that prints a phrase exactly the way it was written using "printf()" function |
 | 6-size.c | A C program that prints the size of various types on the computer it is compiled and run on |
 | 100-intel | A script that generates the assembly code (Intel syntax) of a C code and save it in an output file|
+| 101-quote.c |A C program that prints a phrase exactly the way it was written to the standard error.|
