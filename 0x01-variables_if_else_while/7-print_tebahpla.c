@@ -1,7 +1,7 @@
 #include <stdlib.h>
 
 /*
-* main - prints the alphabet in lowercase, followed by a new line
+* main - prints the lowercase alphabet in reverse order
 * Return: 0 provided there is no error
 */
 int main(void)
