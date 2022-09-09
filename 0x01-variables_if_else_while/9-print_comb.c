@@ -10,13 +10,9 @@ int main(void)
 
 	for (i = 0; i < 10; i++)
 	{
-		if (i == 9)
+		putchar(n++);
+		if (i != 9)
 		{
-			putchar(n++);
-		}
-		else
-		{
-			putchar(n++);
 			putchar(44);
 			putchar(32);
 		}
