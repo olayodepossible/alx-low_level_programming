@@ -3,7 +3,7 @@
 #include <time.h>
 /* more headers goes there */
 
-/*
+/**
 * main - print the number stored in the variable n
 * Return: 0 provided there is no error
 */
