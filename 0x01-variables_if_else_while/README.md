@@ -11,3 +11,4 @@
 | 7-print_tebahpla.c |Prints the alphabet in lowercase, followed by a new line in reverse order |
 | 8-print_base16.c | Prints all the numbers of base 16 in lowercase |
 | 9-print_comb.c | Prints all possible combinations of single-digit numbers |
+| 100-print_combo3.c | Prints all possible different combinations of two digits |
