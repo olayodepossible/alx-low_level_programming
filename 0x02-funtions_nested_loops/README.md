@@ -4,7 +4,7 @@
 | 0-putchar.c | Prints "_putchar" to standard output |
 |1-print_alphabet.c |Prints the alphabet in lowercase, followed by a new line |
 |2-print_alphabet_x10.c | Prints alphabet in lowercase 10 times
-| 4-print_alphabt.c | Print all the letters except q and e |
+| 3-islower.c | checks if the character is lowercase |
 | 5-print_numbers.c | Prints all single digit numbers of base 10 starting from 0 |
 | 6-print_numberz.c | Prints all single digit numbers of base 10 starting from 0 using putchar() function |
 | 7-print_tebahpla.c |Prints the alphabet in lowercase, followed by a new line in reverse order |
