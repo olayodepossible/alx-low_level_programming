@@ -2,19 +2,19 @@
 
 /**
 * print_to_98 - print all natural from n to 98
-* @n - parameter
+* @n: parameter
 */
 void print_to_98(int n)
 {
 	int k = 98;
 
-	if(n == k)
+	if (n == k)
 		printf("%d", n);
 	else
 	{
-		if(n > k)
+		if (n > k)
 		{
-			while(n >= k)
+			while (n >= k)
 			{
 				printf("%d, ", n);
 				n--;
@@ -22,11 +22,11 @@ void print_to_98(int n)
 		}
 		else
 		{
-			while(n <= k)
-                        {
-                                printf("%d, ", n);
-                                n++;
-                        }
+			while (n <= k)
+			{
+				printf("%d, ", n);
+				n++;
+			}
 		}
 
 	}

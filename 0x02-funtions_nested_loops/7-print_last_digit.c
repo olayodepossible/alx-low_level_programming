@@ -1,7 +1,7 @@
 #include "main.h"
 /**
 * print_last_digit - prints the last digit of a number
-* @n - integer parameter
+* @n:  integer parameter
 * Return: the last digit of the parameter passed
 */
 int print_last_digit(int n)
@@ -18,6 +18,6 @@ int print_last_digit(int n)
 
 	_putchar(x + '0');
 
-	return(x);
+	return (x);
 
 }
