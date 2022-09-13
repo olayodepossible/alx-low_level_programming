@@ -8,7 +8,7 @@
 | 4-isalpha.c | Checks if a character is an alphabet |
 | 5-sign.c | Prints the sign of a  number |
 | 6-abs.c |Prints absolute value of a nnumber |
-| 8-print_base16.c | Prints all the numbers of base 16 in lowercase |
+| 7-print_last_digit.c | Prints the last digit of a number |
 | 9-print_comb.c | Prints all possible combinations of single-digit numbers |
 | 100-print_combo3.c | Prints all possible different combinations of two digits |
 | 101-print_combo4.c | Prints all possible different combinations of thre digits |
