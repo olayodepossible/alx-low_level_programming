@@ -7,7 +7,7 @@
 | 3-islower.c | Checks if the character is lowercase |
 | 4-isalpha.c | Checks if a character is an alphabet |
 | 5-sign.c | Prints the sign of a  number |
-| 7-print_tebahpla.c |Prints the alphabet in lowercase, followed by a new line in reverse order |
+| 6-abs.c |Prints absolute value of a nnumber |
 | 8-print_base16.c | Prints all the numbers of base 16 in lowercase |
 | 9-print_comb.c | Prints all possible combinations of single-digit numbers |
 | 100-print_combo3.c | Prints all possible different combinations of two digits |
