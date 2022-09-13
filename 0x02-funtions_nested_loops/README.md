@@ -12,4 +12,4 @@
 | 8-24_hours.c | Prints every minute with 00:00 - 23:59 |
 | 9-times_table.c | Prints the 9 times table, starting from 0 |
 | 10-add.c | Prints the addition of two integers |
-| 102-print_combo5.c | Prints all possible different combinations of two two-digits |
+| 11-print_to_98.c | Prints all natural numbers from n to 98 |
