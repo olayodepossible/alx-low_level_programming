@@ -16,4 +16,5 @@
 | 100-times_table.c | Prints the n times table, starting with 0 |
 | 101-natural.c | Prints sum of multiple of 3 and 5 in a digit |
 | 102-fibonacci.c | Prints the first 50 Fibonacci numbers, starting with 1 and 2|
-| 103-fibonacci.c | Prints the sum of the even-valued terms |
+| 103-fibonacci.c | Prints the sum of the even-valued terms in a Fibonacci sequence |
+| 104-fibonacci. | Prints the first 98 Fibonacci numbers, starting with 1 and 2 |
