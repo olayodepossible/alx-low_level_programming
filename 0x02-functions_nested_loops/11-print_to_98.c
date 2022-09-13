@@ -12,7 +12,6 @@ void print_to_98(int n)
 		printf("%d", n);
 	else
 		if (n > k)
-		
 			while (n >= k)
 			{
 				if (n == k)
@@ -28,7 +27,6 @@ void print_to_98(int n)
 			}
 		
 		else
-		
 			while (n <= k)
 			{
 				if (n == k)
@@ -42,6 +40,5 @@ void print_to_98(int n)
 					n++;
 				}
 			}
-		
 	printf("\n");
 }
