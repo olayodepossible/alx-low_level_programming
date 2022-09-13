@@ -16,16 +16,12 @@ void print_to_98(int n)
 		{
 			while (n >= k)
 			{
-				if ( n == k)
-				{
+				if (n == k)
 					printf("%d", n);
 					n--;
-				}
 				else
-				{
 					printf("%d, ", n);
 					n--;
-				}
 			}
 		}
 		else
@@ -33,15 +29,11 @@ void print_to_98(int n)
 			while (n <= k)
 			{
 				if (n == k)
-				{
 					printf("%d", n);
 					n++;
-				}
 				else
-				{
 					printf("%d, ", n);
 					n++;
-				}
 			}
 		}
 	}
