@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 /**
-* main - print the numbers from 1 - 100 with Fizz, Buzz, and FizzBuzz replacing multiple of 3, 5 and both respectively.
-
+* main - prints the numbers from 1 to 100, followed by a new line
+ * but for multiples of three prints Fizz instead of the number
+ * and for the multiples of five prints Buzz
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
@@ -12,19 +14,24 @@ int main(void)
 	{
 		if (i % 3 == 0 && i % 5 == 0)
 		{
-			printf("FizzBuzz ");
-			continue;
+			printf(" FizzBuzz ");
 		}
-		else if (i % 3 == 0)
+		else if (i % 3 == 0 && i % 5 != 0)
 		{
-			printf("Fizz ");
-			continue;
+			printf(" Fizz ");
 		}
-		else if (i % 5 == 0)
+		else if (i % 5 == 0 && i % 3 != 0)
 		{
-			printf("Buzz ");
-			continue;
+			printf(" Buzz");
 		}
-		printf("%d ", i);
+		else if (i == 1)
+		{
+			printf("%d", i);
+		}
+		else
+			printf(" %d", i);
 	}
+	_putchar('\n');
+
+	return (0);
 }
