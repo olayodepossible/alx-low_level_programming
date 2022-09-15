@@ -7,6 +7,6 @@
 
 int main(void)
 {
-	print_numbers();
+	print_diagonal(6);
 	return (0);
 }
