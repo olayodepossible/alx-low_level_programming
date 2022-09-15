@@ -8,3 +8,4 @@
 | 5-more_numbers.c | Prints the numbers from 0 to 14 in 10 places |
 | 6-print_line.c | Draws a straight line in the terminal |
 | 7-print_diagonal | Draws diagonal line in the terminal |
+| 8-print_square.c | Prints a square in the terminal |
