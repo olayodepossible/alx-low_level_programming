@@ -10,3 +10,4 @@
 | 7-print_diagonal | Draws diagonal line in the terminal |
 | 8-print_square.c | Prints a square in the terminal |
 | 9-fizz_buzz.c | Prints numbers from 1 - 100, with Fizz, Buzz, and FizzBuzz replacing multiple of 3, 5, and both respectively |
+| 10-print_triangle.c | Prints triangle in the terminal |
