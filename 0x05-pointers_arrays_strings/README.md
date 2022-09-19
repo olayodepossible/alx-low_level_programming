@@ -8,4 +8,5 @@
 | 4-print_rev.c | A function that prints a string in reverse order |
 | 5-rev_string.c | A function that reverse a String |
 | 6-puts2.c | A function that prints everiy other character to a string |
-| 7-puts_half.c | a function that prints half of a string |
+| 7-puts_half.c | A function that prints half of a string |
+|8-print_array | A function that prints n element of an arry of integers |
