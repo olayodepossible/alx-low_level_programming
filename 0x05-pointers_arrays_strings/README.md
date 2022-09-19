@@ -7,3 +7,4 @@
 | 3-puts.c | A function that prints a string |
 | 4-print_rev.c | A function that prints a string in reverse order |
 | 5-rev_string.c | A function that reverse a String |
+| 6-puts2.c | A function that prints everiy other character to a string |
