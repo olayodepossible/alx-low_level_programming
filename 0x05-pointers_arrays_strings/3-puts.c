@@ -9,7 +9,7 @@ void _puts(char *str)
 
 	while (count >= 0)
 	{
-		if (str[count] == '\n')
+		if (str[count] == '\0')
 		{
 			_putchar('\n');
 			break;
