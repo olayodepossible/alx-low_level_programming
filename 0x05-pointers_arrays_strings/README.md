@@ -10,3 +10,4 @@
 | 6-puts2.c | A function that prints everiy other character to a string |
 | 7-puts_half.c | A function that prints half of a string |
 |8-print_array | A function that prints n element of an arry of integers |
+|9-strcpy.c | A function that copies the string pointed to by src, including the terminating null byte (\0) |
