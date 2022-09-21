@@ -1,21 +1,18 @@
 #include "main.h"
 /**
 * string_toupper - changes all lowercase letters to uppcase
-* @c: parameter char set
+* @s: parameter char set
 * Return: pointer
 */
-char *string_toupper(char *c)
+char *string_toupper(char *s)
 {
-	int i = 0;
+	int i;
 
-	while (*(c + i) != '\0')
+	for (i = 0; s[i] != '\0'; i++)
 	{
-		if ((*(c + i) >= 97 && (*(c + i) <= 122))
-		{
-			*(c + i) =  *(c + i) - 32;
-		}
-		i++;
+		if (s[i] >= 'a' && s[i] <= 'z')
+			s[i] = s[i] - 32;
 	}
 
-	return (c)
+	return (s);
 }
