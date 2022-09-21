@@ -3,7 +3,7 @@
 | ----------- | ----------- |
 | 0-strcat.c |A function that appends the src string to the dest string, overwriting the terminating null byte (\0) at the end of dest |
 | 1-strncat | A funtion that appends the src string to dest string base on nth byte limitation |
-| 2-strlen.c | A function that returns the length of a string |
+| 2-strncpy.c | A function that copy string src base on the set nth byte limit |
 | 3-puts.c | A function that prints a string |
 | 4-print_rev.c | A function that prints a string in reverse order |
 | 5-rev_string.c | A function that reverse a String |
