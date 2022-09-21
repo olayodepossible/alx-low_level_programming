@@ -9,7 +9,7 @@
 | 5-string_toupper.c | A function that changes all lowercase letter to upper |
 | 6-cap_string.c | A function that captslize all words string |
 | 7-leet.c | A function that encodes a string into 1337 |
-|8-print_array | A function that prints n element of an arry of integers |
+|100-rot13.c | A function that encodes a string using rot13 |
 |9-strcpy.c | A function that copies the string pointed to by src, including the terminating null byte (\0) |
 | 100-atoi.c | A function that convert a string to an integer |
 | 101-keygen.c |A program that generates random valid passwords for the program 101-crackme.
