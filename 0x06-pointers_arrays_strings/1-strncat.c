@@ -12,14 +12,13 @@ char *_strncat(char *dest, char *src, int n)
 
 	while (*(dest + c) != '\0')
 		c++;
-	while (c2 < n)
+	while (*(src + c2) != '\0' && c2 < n)
 	{
-		*(dest + c) = *(src + c2)
-		if (*(src + c2) == '\0')
-			break;
+		*(dest + c) = *(src + c2);
 		c++;
 		c2++;
 	}
+	*(dest + c) = '\0';
 
 	return (dest);
 }
