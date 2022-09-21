@@ -11,5 +11,4 @@
 | 7-leet.c | A function that encodes a string into 1337 |
 |100-rot13.c | A function that encodes a string using rot13 |
 |103-infinite_add.c | A function that add two numbers |
-| 100-atoi.c | A function that convert a string to an integer |
-| 101-keygen.c |A program that generates random valid passwords for the program 101-crackme.
+| 104-print_buffer.c | A function that print a buffer |
