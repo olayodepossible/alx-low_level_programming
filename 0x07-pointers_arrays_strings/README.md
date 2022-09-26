@@ -4,7 +4,7 @@
 | 0-memset.c |A function that fills the first n bytes of the memory area pointed to by s with the constant byte b |
 | 1-memcpy.c | A funtion that copies n bytes from memory area src to memory area dest |
 | 2-strchr.c | A function that returns the first occurrence of a character |
-| 3-strcmp.c | A function that compare two strings |
+| 3-strspn.c | A function that returns the number of bytes in the initial segment of s which consist only of bytes from accept |
 | 4-rev_array.c | A function that reverse array of integers |
 | 5-string_toupper.c | A function that changes all lowercase letter to upper |
 | 6-cap_string.c | A function that captslize all words string |
