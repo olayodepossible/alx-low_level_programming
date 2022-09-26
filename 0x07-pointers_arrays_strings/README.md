@@ -2,7 +2,7 @@
 | Script Files | Description |
 | ----------- | ----------- |
 | 0-memset.c |A function that fills the first n bytes of the memory area pointed to by s with the constant byte b |
-| 1-strncat | A funtion that appends the src string to dest string base on nth byte limitation |
+| 1-memcpy.c | A funtion that copies n bytes from memory area src to memory area dest |
 | 2-strncpy.c | A function that copy string src base on the set nth byte limit |
 | 3-strcmp.c | A function that compare two strings |
 | 4-rev_array.c | A function that reverse array of integers |
