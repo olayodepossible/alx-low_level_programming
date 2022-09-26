@@ -9,6 +9,6 @@
 | 5-strstr.c | A function that finds the first occurrence of the substring needle in the string haystack. The terminating null bytes (\0) are not compared |
 | 6-cap_string.c | A function that captslize all words string |
 | 7-print_chessboard.c | A function that prints the chessboard |
-|100-rot13.c | A function that encodes a string using rot13 |
+|8-print_diagsums.c | A function that prints the sum of the two diagonals of a square matrix of integers. |
 |103-infinite_add.c | A function that add two numbers |
 | 104-print_buffer.c | A function that print a buffer |
