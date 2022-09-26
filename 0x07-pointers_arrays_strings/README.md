@@ -5,7 +5,7 @@
 | 1-memcpy.c | A funtion that copies n bytes from memory area src to memory area dest |
 | 2-strchr.c | A function that returns the first occurrence of a character |
 | 3-strspn.c | A function that returns the number of bytes in the initial segment of s which consist only of bytes from accept |
-| 4-rev_array.c | A function that reverse array of integers |
+| 4-strpbrk.c | A function that locates the first occurrence in the string s of any of the bytes in the string accept |
 | 5-string_toupper.c | A function that changes all lowercase letter to upper |
 | 6-cap_string.c | A function that captslize all words string |
 | 7-leet.c | A function that encodes a string into 1337 |
