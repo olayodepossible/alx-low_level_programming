@@ -8,7 +8,7 @@
 | 4-strpbrk.c | A function that locates the first occurrence in the string s of any of the bytes in the string accept |
 | 5-strstr.c | A function that finds the first occurrence of the substring needle in the string haystack. The terminating null bytes (\0) are not compared |
 | 6-cap_string.c | A function that captslize all words string |
-| 7-leet.c | A function that encodes a string into 1337 |
+| 7-print_chessboard.c | A function that prints the chessboard |
 |100-rot13.c | A function that encodes a string using rot13 |
 |103-infinite_add.c | A function that add two numbers |
 | 104-print_buffer.c | A function that print a buffer |
