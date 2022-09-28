@@ -4,7 +4,7 @@
 | 0-puts_recursion.c |A function that prints a string followed by a new line |
 | 1-print_rev_recursion.c | A funtion that prints a string in reverse |
 | 2-strlen_recursion.c | A function that returns the length of a string |
-| 3-strspn.c | A function that returns the number of bytes in the initial segment of s which consist only of bytes from accept |
+| 3-factorial.c | A function that returns the factorial of a given number |
 | 4-strpbrk.c | A function that locates the first occurrence in the string s of any of the bytes in the string accept |
 | 5-strstr.c | A function that finds the first occurrence of the substring needle in the string haystack. The terminating null bytes (\0) are not compared |
 | 6-cap_string.c | A function that captslize all words string |
