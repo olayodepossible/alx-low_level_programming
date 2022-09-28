@@ -2,7 +2,7 @@
 | Script Files | Description |
 | ----------- | ----------- |
 | 0-puts_recursion.c |A function that prints a string followed by a new line |
-| 1-memcpy.c | A funtion that copies n bytes from memory area src to memory area dest |
+| 1-print_rev_recursion.c | A funtion that prints a string in reverse |
 | 2-strchr.c | A function that returns the first occurrence of a character |
 | 3-strspn.c | A function that returns the number of bytes in the initial segment of s which consist only of bytes from accept |
 | 4-strpbrk.c | A function that locates the first occurrence in the string s of any of the bytes in the string accept |
