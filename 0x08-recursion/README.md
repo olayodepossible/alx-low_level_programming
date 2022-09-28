@@ -6,7 +6,7 @@
 | 2-strlen_recursion.c | A function that returns the length of a string |
 | 3-factorial.c | A function that returns the factorial of a given number |
 | 4-pow_recursion.c | A function that returns the value of x raised to the power of y |
-| 5-strstr.c | A function that finds the first occurrence of the substring needle in the string haystack. The terminating null bytes (\0) are not compared |
+| 5-sqrt_recursion.c | A function that returns the natural square root of a number |
 | 6-cap_string.c | A function that captslize all words string |
 | 7-print_chessboard.c | A function that prints the chessboard |
 |8-print_diagsums.c | A function that prints the sum of the two diagonals of a square matrix of integers. |
