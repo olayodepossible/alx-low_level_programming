@@ -5,7 +5,7 @@
 | 1-args.c | A funtion that prints the number of arguments passed into it |
 | 2-args.c | A function that prints all arguments it receives |
 | 3-mul.c | A function that multiply two command line argument |
-| 4-strpbrk.c | A function that locates the first occurrence in the string s of any of the bytes in the string accept |
+| 4-add.c | A function that add two positive integers |
 | 5-strstr.c | A function that finds the first occurrence of the substring needle in the string haystack. The terminating null bytes (\0) are not compared |
 | 6-cap_string.c | A function that captslize all words string |
 | 7-print_chessboard.c | A function that prints the chessboard |
