@@ -3,7 +3,7 @@
 | ----------- | ----------- |
 | 0-whatsmyname.c |A function that prints its name, followed by a new line |
 | 1-args.c | A funtion that prints the number of arguments passed into it |
-| 2-strchr.c | A function that returns the first occurrence of a character |
+| 2-args.c | A function that prints all arguments it receives |
 | 3-strspn.c | A function that returns the number of bytes in the initial segment of s which consist only of bytes from accept |
 | 4-strpbrk.c | A function that locates the first occurrence in the string s of any of the bytes in the string accept |
 | 5-strstr.c | A function that finds the first occurrence of the substring needle in the string haystack. The terminating null bytes (\0) are not compared |
