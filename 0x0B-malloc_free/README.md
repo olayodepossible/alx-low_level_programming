@@ -7,3 +7,4 @@
 | 3-alloc_grid.c | A function that returns a pointer to a 2 dimensional array of integers |
 | 4-rev_array.c | A function that frees a 2 dimensional grid |
 | 100-argstrostr.c | A function that concatenates all the arguments of your program |
+| 101-strtow.c| A fuction that splits a string into words|
