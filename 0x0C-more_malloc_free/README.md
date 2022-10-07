@@ -6,5 +6,4 @@
 | 2-calloc.c | A function that allocates memory for an array, using malloc |
 | 3-array_range.c | A function that creates an array of integers |
 |100-realloc.c | A function that reallocates a memory block using malloc and free |
-|103-infinite_add.c | A function that add two numbers |
-| 104-print_buffer.c | A function that print a buffer |
+| 101-mul.c | A function that multiplies two positive numbers |
