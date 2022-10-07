@@ -2,7 +2,7 @@
 | Script Files | Description |
 | ----------- | ----------- |
 | 0-malloc_checked.c |A function that allocates memory using malloc |
-| 1-strncat | A funtion that appends the src string to dest string base on nth byte limitation |
+| 1-string_nconcat.c | A funtion that concatenates two strings |
 | 2-strncpy.c | A function that copy string src base on the set nth byte limit |
 | 3-strcmp.c | A function that compare two strings |
 | 4-rev_array.c | A function that reverse array of integers |
