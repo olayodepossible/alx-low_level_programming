@@ -12,6 +12,6 @@
 
 | 100-first.c | A function that prints a sentence before the main function is executed.|
 
-| 101-hello_alx.asm is |A 64-bit program in assembly that prints "Hello, ALX", followed by a new line.|
+| 101-hello_holberton.asm is |A 64-bit program in assembly that prints "Hello, Holberton", followed by a new line.|
 
 | lists.h | the header file containing the definition of the list_t struct and all the prototypes of the above functions.|
