@@ -5,6 +5,7 @@
  * printf - preform printf function
  * @format: the command
  * exit with success
+ * Return: wining numbers
  */
 int printf(const char *format, ...)
 {
